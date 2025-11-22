@@ -1,30 +1,38 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm Reza Panahi!  
 ### 🚀 Computer Engineering Student | AI & Data Science Learner  
 
->  *Voyaging through the waves of code...*  
+>  *Sailing through the waves of code...*  
 
 ---
 
 ## 🌱 About Me
 - 🎓 I'm a **Computer Engineering** student.  
-- 💻 Currently learning **Python**, **SQL**, and exploring **AI** and **Data Science**.  
+- 💻 Currently learning **Python**, **SQL(Basics)**, and exploring **AI** and **Data Science**.  
 - 🧠 Interested in problem-solving, learning new technologies, and improving every day.  
 - 🧭 In a constant state of growth and discovery.  
 
 ---
 
 ## 🧩 Projects
-- 🎯 **Number Guess Game** → a simple logic-based game built in Python.  
-- 🕒 **Time Guess Game** → a creative twist where timing meets luck.  
+
+- **Python Password Generator (Simple & OOP)**  
+  Generates strong random passwords using Python. Includes both simple and OOP versions.
+
+- **LibraryManager**  
+  A basic library system for managing books (more features coming soon).
+
+- **Weather API Project**  
+  Fetches real-time weather data using the OpenWeather API.
+
+- **Number Guessing Game**  
+  A simple Python game where you guess the random number.
 
 *(More projects will be added soon...)*  
 
 ---
 
 ## ⚙️ Tech Stack
-- **Languages:** Python 🐍, SQL  
+- **Languages:** Python 🐍, SQL(Basics)  
 - **Tools:** Git, GitHub  
 - **OS:** Windows & Linux (Ubuntu)  
 
@@ -44,7 +52,7 @@
 ### فارسی 🇮🇷
 > من **رضا پناهی** هستم، دانشجوی مهندسی کامپیوتر و در مسیر یادگیری **هوش مصنوعی** و **علم داده** قدم برمی‌دارم.  
 > علاقه‌مند به حل مسئله و یادگیری فناوری‌های جدید و بهبود مداوم خود هستم.  
-> در یک حالت پیوسته از رشد و کشف قرار دارم و در حال تکامل و دریانوردی در میان امواج کدها هستم — همیشه کنجکاو و مشتاق یادگیری.  
+>در حال سفر در میان امواج کدها هستم — همیشه کنجکاو و مشتاق   یادگیری. 
 
 ---
 
